@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { useRef } from "react"
 import AnimatedTitle from "./AnimatedTitle"
 import gsap from "gsap"
@@ -63,7 +64,7 @@ const Story = () => {
                             onMouseUp={handleMouseLeave}
                             onMouseEnter={handleMouseLeave}
                             onMouseMove={handleMouseMove}
-                            src="/images/entrance.webp" alt="entrance"
+                            src="img/entrance.webp" alt="entrance"
                             className="object-contain"
                             />
                         </div>
