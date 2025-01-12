@@ -1,6 +1,5 @@
 {
   "name": "gsap",
-  "homepage": "https://GDRpiece.github.io/scroll-animation/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
